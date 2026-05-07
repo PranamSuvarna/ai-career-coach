@@ -225,11 +225,9 @@ MIT License
 
 AI & Data Science Enthusiast 🚀
 
-GitHub:
-https://github.com/YOUR_USERNAME
+GitHub:(https://github.com/PranamSuvarna)
 
-LinkedIn:
-Add your LinkedIn profile here
+LinkedIn:(https://www.linkedin.com/in/pranam-suvarna-4611622a3)
 
 ---
 
